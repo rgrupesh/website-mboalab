@@ -31,7 +31,28 @@
 
 We propose to use the microcultures test with the blood which seems to be the best accepted by the laboratory technicians. We will use CNNs as algorithms on the collected images to train the algorithm. Everything will depend on the volume of images we have, if we have few we will use transfer learning to automate the test of microbiological cultures .As we saw above this test is reliable at 61% and to reinforce the reliability of this test we will use the second algorithm which is a fast decision tree learner. This algorithm based on 18 symptoma variables will allow us not only to confirm the diagnosis but above all to determine the level of severity of the disease. The main challenge our project is facing is availability of local and high quality open data.</p>
       </div>
-        </section>
+      <h2 class="text-3xl">frequently asked questions(FAQ)</h2>
+      <b>Typhoid fever facts:</b>
+      <br>
+      <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" width="45%" src="../assets/typhoid-fever.jpg">
+      <br>
+      <ul class="mb-12 list-disc pl-4">
+      <li>Usually, Salmonellae typhi bacteria causes typhoid fever.</li>
+      <li>People contract typhoid fever by ingesting contaminated food or water.</li>
+      <li>Diagnosis of typhoid fever is made when the Salmonella bacteria is detected with a stool culture.</li>
+      <li>Antibiotics treat typhoid fever.</li>
+      <li>Typhoid fever symptoms are</li>
+      <ul class="mb-12 list-disc pl-4">
+      <li>poor appetite,</li>
+      <li>headaches,</li>
+      <li>diarrhea,</li>
+      <li>generalized aches and pains,</li>
+      <li>fever, and</li>
+      <li>lethargy.</li>
+      </ul>
+      </ul>
+
+    </section>
   </Layout>
 </template>
 
