@@ -14,7 +14,9 @@
           <li>propose solutions that meet the needs of communities, using local knowledge and open digital technologies</li>
           <li>raise public awareness of environmental issues</li>
           <li>facilitate access to basic health care</li>
-          
+        <br>
+        <img width="95%" src="../assets/child.jpeg">  
+        <br>  
         </ul>
         <h2 class="text-3xl">Open Projects</h2>
         <h1 class="text-3xl">Project Description</h1>
