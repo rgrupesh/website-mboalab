@@ -3,11 +3,9 @@
     <section id="container-centre" class="column centre flex-1">
       <h1 class="page-title">Welcome to Mboalab Project!</h1>
       <div class="content">
-        <!-- <p>
-          A 
-          <a href="https://www.gridsome.org">Gridsome</a> starter built with
-          <a href="https://tailwindcss.com">TailwindCSS</a>.
-        </p> -->
+       
+        <img width="95%" src="../assets/home_img.png">
+        <br>
         <p>MboaLab is an open and collaborative space located in Yaoundé, Cameroon. The aim of MboaLab is to catalyse sustainable local development and improve people’s living conditions through open science.</p>
         <h2 class="text-3xl">Aim and missions</h2>
         <ul class="mb-12 list-disc pl-4">
@@ -20,6 +18,7 @@
         </ul>
         <h2 class="text-3xl">Open Projects</h2>
         <h1 class="text-3xl">Project Description</h1>
+        <p>Improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique</p>
         <b>Context</b>
         <p>Typhoid or Enteric fever is one of the infectious human diseases in Cameroon and Africa. Outbreaks of typhoid fever caused by Salmonella typhi remains a serious health problem worldwide. There are a number of tests available presently, from molecular to immunological and biochemical to microbiological. Some well-known and conventional Method of Diagnosis of Typhoid Fever are :</p>
         <li><b>Microbiological cultures:</b>  The isolation of the causative organism, Salmonella enterica serovar Typhi (Salmonella Typhi), is the gold standard for the diagnosis (WHO, 2018). Body fluids like blood, bone marrow, stool, urine, rose spots, gastric and intestinal secretions may be cultured. Blood culture gives a definitive diagnosis. But, the use of bacteriological cultures for the diagnosis of typhoid infection is cost-intensive and technically difficult, hence the need for other diagnostic tests.</li>
@@ -30,14 +29,15 @@
 
 We propose to use the microcultures test with the blood which seems to be the best accepted by the laboratory technicians. We will use CNNs as algorithms on the collected images to train the algorithm. Everything will depend on the volume of images we have, if we have few we will use transfer learning to automate the test of microbiological cultures .As we saw above this test is reliable at 61% and to reinforce the reliability of this test we will use the second algorithm which is a fast decision tree learner. This algorithm based on 18 symptoma variables will allow us not only to confirm the diagnosis but above all to determine the level of severity of the disease. The main challenge our project is facing is availability of local and high quality open data.</p>
       </div>
-    </section>
+        </section>
   </Layout>
 </template>
 
 <script>
+
 export default {
   metaInfo: {
     title: "Home"
-  }
+    }
 };
 </script>
