@@ -53,6 +53,14 @@
               type="submit"
             >Send message!</button>
           </div>
+          <div class="row">
+            <ul>
+              <li>Po Box: 31066, Yaoundé, Cameroon</li>
+              <li>Email: mboalab@gmail.com </li>
+              <li> Whatsapp: +237680795542 </li>
+              <li> Phone: +237697465154</li>
+            </ul>  
+          </div>  
         </form>
       </div>
     </section>
