@@ -8,7 +8,7 @@
           <a href="https://www.gridsome.org">Gridsome</a> starter built with
           <a href="https://tailwindcss.com">TailwindCSS</a>.
         </p> -->
-        <p>Outreachy</p>
+        <p>This project is part of Outreachy Internship.</p>
       </div>
     </section>
   </Layout>
