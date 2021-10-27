@@ -3,6 +3,7 @@
     <section id="container-centre" class="column centre flex-1">
       <h1 class="page-title">Projects</h1>
       <div class="content">
+        List of available projects are:
         <!-- <p>
           A 
           <a href="https://www.gridsome.org">Gridsome</a> starter built with
