@@ -10,6 +10,9 @@
         </p> -->
         <p>This project is part of Outreachy Internship.</p>
       </div>
+      <div>
+        <p>Mboalab is a Free and Open Source Software (FOSS) community in the December 2021 to March 2022 Outreachy internships round.</p>
+      </div>  
     </section>
   </Layout>
 </template>
